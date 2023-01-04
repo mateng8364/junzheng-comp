@@ -1,9 +1,11 @@
 import CompButton from './Button'
 import CompText from './Text'
+import CompInput from './Input'
 
 const components = [
   CompButton,
-  CompText
+  CompText,
+  CompInput
 ]
 
 const install = function (Vue) {
@@ -24,5 +26,6 @@ export default install
 
 export {
   CompButton,
-  CompText
+  CompText,
+  CompInput
 }
