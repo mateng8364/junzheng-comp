@@ -1,6 +1,6 @@
 <template>
   <div class="comp-input">
-    <el-input v-model="input" v-bind="$attr" v-on="$listener"></el-input>
+    <el-input v-model="input" v-bind="$attrs" v-on="$listeners"></el-input>
   </div>
 </template>
 
