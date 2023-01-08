@@ -5,10 +5,10 @@
 </template>
 
 <script>
-import Vue from 'vue'
-import { Input } from 'element-ui'
+// import Vue from 'vue'
+// import { Input } from 'element-ui'
 
-Vue.component(Input.name, Input)
+// Vue.component(Input.name, Input)
 
 export default {
   name: 'CompInput',
@@ -33,6 +33,6 @@ export default {
 }
 </script>
 
-<style>
-
+<style lang="scss">
+.comp-input {}
 </style>

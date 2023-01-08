@@ -46,8 +46,6 @@ const install = function (Vue) {
   }
 }
 
-export default install
-
 export {
   CompInput,
   Page,
@@ -65,3 +63,5 @@ export {
   MultiTableSelect,
   Canton
 }
+
+export default install
