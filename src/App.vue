@@ -13,10 +13,7 @@ export default {
   components: {
     HelloWorld
   },
-  color: "黄老板",
-  init: function () {
-    console.log("鸡鸡思密达")
-  }
+  item: "黄老爷又高又硬"
 }
 </script>
 
