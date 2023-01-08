@@ -12,6 +12,10 @@ export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  color: "黄老板",
+  init: function () {
+    console.log("鸡鸡思密达")
   }
 }
 </script>
