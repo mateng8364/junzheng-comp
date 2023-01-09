@@ -12,8 +12,7 @@ export default {
   name: 'App',
   components: {
     HelloWorld
-  },
-  item: "黄老爷又高又硬"
+  }
 }
 </script>
 
